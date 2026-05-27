@@ -1,0 +1,17 @@
+# системные файлы macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# приватные данные
+private/
+data/raw/
+
+# временные файлы
+*.tmp
+*.log
+
+# python cache
+__pycache__/
+*.pyc
