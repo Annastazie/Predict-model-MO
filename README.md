@@ -69,7 +69,7 @@
 ---
 
 ## Структура проекта
-'''text
+
 Predict-model-MO/
 ├── app.py
 ├── README.md
@@ -87,7 +87,7 @@ Predict-model-MO/
 │ ├── experiments_log.csv
 │ └── predictions_test.csv
 └── private/
-'''
+
 
 ## Использованные модели
 
