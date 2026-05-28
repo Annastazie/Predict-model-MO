@@ -75,18 +75,19 @@ Predict-model-MO/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   └── 01_eda.ipynb
+│ └── 01_eda.ipynb
 ├── data/
-│   ├── raw/
-│   └── processed/
-│       └── dataset_features_ready.xlsx
+│ ├── raw/
+│ └── processed/
+│ └── dataset_features_ready.xlsx
 ├── models/
-│   ├── model_linear_regression_basic.pkl
-│   └── model_random_forest_extended.pkl
+│ ├── model_linear_regression_basic.pkl
+│ └── model_random_forest_extended.pkl
 ├── reports/
-│   ├── experiments_log.csv
-│   └── predictions_test.csv
+│ ├── experiments_log.csv
+│ └── predictions_test.csv
 └── private/
+
 
 ## Использованные модели
 
