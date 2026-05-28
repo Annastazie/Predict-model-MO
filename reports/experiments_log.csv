@@ -1,6 +1,4 @@
 model,MAE,RMSE,MAPE
-RandomForest_extended,0.388,0.557,1.85
+RandomForest_extended,0.413,0.572,1.96
 LinearRegression_basic,0.76,0.924,3.38
-Ridge_extended,2.226,2.252,9.99
 Baseline_mean,2.691,3.104,11.46
-LinearRegression_extended,2.927,2.966,13.04
